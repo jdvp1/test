@@ -1,2 +1,2 @@
-//test child
+//test child..
 print"son message"
